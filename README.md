@@ -21,6 +21,7 @@ Several startups, such as NavVis, IndoorAtlas, and Estimote, focus on indoor nav
 - [NavVis Digital Factory: The Reality Capture Workflow](https://www.navvis.com/resources/videos/navvis-vlx-vs-tls)
 - [IndoorAtlas Georeferenced AR and AR Wayfinding](https://www.indooratlas.com/)
 - [Estimote Demo](https://www.indooratlas.com/solutions/augmented-reality/)
+- [Devtechnosys](https://devtechnosys.com/insights/how-indoor-navigation-app-help-retail-store-enhance-profits/)
 
 ## Proposed Solution Stack
 Following technology stack could be a good start to build a prototype.
